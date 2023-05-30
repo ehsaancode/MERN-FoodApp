@@ -1,0 +1,13 @@
+input.transparent-input {
+    background-color: rgba(0, 0, 0, .6);
+    border: none;
+
+}
+input.transparent-input:focus{
+    background-color: rgba(0, 0, 0, 0);
+    border: solid rgba(11, 181, 11, 0.186);
+    
+}
+input.transparent-input:hover{
+    border: solid rgba(4, 107, 4, 0.437);
+}
